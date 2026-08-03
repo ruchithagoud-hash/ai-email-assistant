@@ -1,5 +1,4 @@
 # ai-email-assistant
-
 ## Overview
 I often found it difficult to handle and check all my emails regularly because of the large number of daily messages. Important emails were getting mixed with promotional, spam, and less important mails, making inbox management time-consuming and inefficient.
 
